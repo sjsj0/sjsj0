@@ -25,3 +25,8 @@ I am a Computer Science student at Thapar University, Patiala. Apart from that I
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 
 </p>
+
+<!---Education & Work--->
+<p float="left">
+    <img src="https://imdcdn-w0vwwgyt12rypz.netdna-ssl.com/wp-content/uploads/2020/07/FANUC-logo.png" height="35"/>
+</p>
