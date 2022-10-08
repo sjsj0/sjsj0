@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sjsj0&label=Profile%20views&color=0e75b6&style=flat" alt="sjsj0" /> </p>
 Hii, I'm Sagar Jha.
 
 I am a Computer Science student at Thapar University, Patiala. Apart from that I am a professional Robotics programmer.  I love working on Machine Learning & Deep Learning real life projects.
