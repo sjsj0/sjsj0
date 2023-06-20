@@ -32,5 +32,5 @@ I am a Computer Science student at Thapar University, Patiala. Apart from that I
 
 <!---Education & Work--->
 <p float="left">
-    <img src="https://imdcdn-w0vwwgyt12rypz.netdna-ssl.com/wp-content/uploads/2020/07/FANUC-logo.png" height="35"/>
+    <img src="https://seeklogo.com/images/F/Fanuc_Robotics_America-logo-CD44C28485-seeklogo.com.png" height="35"/>
 </p>
