@@ -33,5 +33,5 @@ I am a Computer Science student at Thapar University, Patiala. Apart from that I
 <!---Education & Work--->
 <p float="left">
     <img src="https://seeklogo.com/images/F/Fanuc_Robotics_America-logo-CD44C28485-seeklogo.com.png" height="35"/>
-    <img src="https://static.gevestor.de/wp-content/uploads/2021/11/jpmorgan-red_shutterstock_750526441_bjorn-bakstad.jpg"/>
+    <img src="https://hitconsultant.net/wp-content/uploads/2022/10/JPMorgan-Chase.png"/>
 </p>
