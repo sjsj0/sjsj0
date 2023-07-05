@@ -1,8 +1,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjsj0&label=Profile%20views&color=0e75b6&style=flat" alt="sjsj0" /> </p>
 Hii, I'm Sagar Jha.
 
-I am a Computer Science student at Thapar University, Patiala. Apart from that I am a professional Robotics programmer. My area of research is Computer Vision and its real life applications. I love working on Machine Learning & Deep Learning real life projects.
-👨🏽‍💻 Currently growing my skillset in Machine Learning and Data Science.
+Currently, I am working as a Software Engineer at JPMorgan Chase & Co. on data analytics for trades and developing Chatbots. Also working on AWS for maintaining and migrating existing systems from on-premises to the cloud. I completed my bachelor's in Computer Science and Engineering. 
+
+Well, I am interested and have recently been working on Machine Learning roles to extract meaningful insights or executable information from the data. I have experience in Computer Vision and am currently focusing much of my attention on NLP to derive practical solutions that include the gains from both domains. I have worked on ML/AI projects and have authored research papers on applied deep learning.
+
+I enjoy working on artificial intelligence, particularly computer vision and machine learning; and my research interests include related fields such as robotics, natural language processing, human-computer interaction, and computational neuroscience. My long-term goal is to equip machines with visual and conversational perception abilities, which enable them to understand and respond to their surroundings.
+
+Please reach out to me if you have any opportunities in the field of Deep Learning or in Python and KDB+/Q. 
+
+Prior role: I am an ex-FANUC Robotics Engineer with a demonstrated history of working in the Industrial Automation industry for about four years. I have experience implementing projects across India involving various applications. I have a strong academic background with a GOLD Medal in Advanced Diploma in Mechatronics and Industrial Automation from CSIO-ISTC and an AMIE in ECE focused on Electronics, Mechatronics, Robotics, and Automation Engineering.
+
+
 
 <!---Contact--->
 <p float="left">
