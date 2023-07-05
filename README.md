@@ -33,5 +33,6 @@ I am a Computer Science student at Thapar University, Patiala. Apart from that I
 <!---Education & Work--->
 <p float="left">
     <img src="https://seeklogo.com/images/F/Fanuc_Robotics_America-logo-CD44C28485-seeklogo.com.png" height="35"/>
-    <img src="https://www.jpmorgan.com/content/dam/logos-global/logo-jpm-brown.svg"/>
+    <img src="https://www.jpmorganchase.com/content/dam/shared/logos/jpmc-logo-290x20px.png" />
+<!--     <img src="https://www.jpmorgan.com/content/dam/logos-global/logo-jpm-brown.svg"/> -->
 </p>
