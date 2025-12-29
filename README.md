@@ -41,6 +41,6 @@ Prior role: I am an ex-FANUC Robotics Engineer with a demonstrated history of wo
 
 <!---Education & Work--->
 <p float="left">
-    <img src="[https://seeklogo.com/vector-logo/556912/fanuc](https://images.seeklogo.com/logo-png/55/1/fanuc-logo-png_seeklogo-556912.png)" height="35"/>
+    <img src="https://images.seeklogo.com/logo-png/55/1/fanuc-logo-png_seeklogo-556912.png" height="35"/>
     <img src="https://www.jpmorgan.com/content/dam/logos-global/logo-jpm-brown.svg" height="35"/>
 </p>
