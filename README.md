@@ -41,6 +41,6 @@ Prior role: I am an ex-FANUC Robotics Engineer with a demonstrated history of wo
 
 <!---Education & Work--->
 <p float="left">
-    <img src="images/fanuc.png" alt="FANUC Robot" width="400"/>
+    <img src="images/fanuc.png" alt="FANUC Robot" width="100"/>
     <img src="https://www.jpmorgan.com/content/dam/logos-global/logo-jpm-brown.svg" height="35"/>
 </p>
