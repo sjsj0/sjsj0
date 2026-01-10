@@ -1,17 +1,34 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjsj0&label=Profile%20views&color=0e75b6&style=flat" alt="sjsj0" /> </p>
 Hii, I'm Sagar Jha.
 
-👋 Hi, I’m Sagar
+I am a **Master’s student in Computer Science at the University of Illinois Urbana-Champaign (UIUC)**, focusing on **Distributed Systems, Machine Learning Systems, and Natural Language Processing**. My work centers on **building scalable, production-grade ML systems**, where algorithmic performance, system efficiency, and real-world constraints matter equally.
 
-I’m a **Master’s student in Computer Science at the University of Illinois Urbana-Champaign (UIUC)**, working at the intersection of **Distributed Systems, Machine Learning, and Natural Language Processing**. My interests lie in building **scalable ML systems** that move beyond models and operate reliably under real-world constraints.
+I hold a **Bachelor’s degree in Computer Science and Engineering**, an **AMIE in Electronics & Communication Engineering** (with a focus on **Mechatronics, Robotics, and Automation**), and a **Gold Medal in Advanced Diploma in Mechatronics & Industrial Automation (CSIO-ISTC)**. This multidisciplinary training grounds my work across **systems, ML, and physical-world deployment**.
 
-Previously, I worked as a **Software Engineer at JPMorgan Chase & Co.**, where I built **software for trading systems**, developed **NLP based chatbots**, and contributed to **cloud migrations on AWS**. This experience shaped my interest in **production ML**, system reliability, and large-scale data processing.
+### Professional Experience
 
-I actively work on **Machine Learning and AI projects**, with a focus on **NLP and Computer Vision**, and have authored **research papers in applied deep learning**. I’m particularly interested in problems where **ML, systems, and data engineering intersect**, such as efficient inference, model deployment, and ML infrastructure.
+**Software Engineer — JPMorgan Chase & Co.**
+I worked on **data-intensive distributed systems** for trade analytics, designing pipelines that processed large volumes of financial data with strong correctness and latency requirements. I also built **NLP-driven chatbots** used internally, and contributed to **AWS-based cloud migrations**, modernizing legacy on-prem systems into scalable, fault-tolerant architectures. This role shaped my interest in **ML deployment, reliability, and systems-level performance**.
 
-Before transitioning fully into software and ML, I spent ~4 years as a **FANUC Robotics Engineer** in the **Industrial Automation** domain, implementing robotics and automation projects at scale. This background gives me a strong foundation in **robotics, mechatronics, and hardware–software co-design**.
+**Robotics Engineer — FANUC (Industrial Automation)**
+Prior to software and ML, I spent ~4 years designing and deploying **industrial robotic systems** across large-scale manufacturing environments. I worked on **real-time control, automation workflows, and system integration**, where failures had physical consequences. This experience deeply informs how I think about **correctness, latency, and robustness**, which now translates directly into my work on **distributed systems and ML infrastructure**.
 
-**Research interests:** NLP, Computer Vision, Robotics, Human–Computer Interaction, and Computational Neuroscience.
+### Research & Projects
+
+I have worked on **Machine Learning, NLP, and Computer Vision projects**, and authored **research papers in applied deep learning**. My current focus is on **NLP systems**—not just model accuracy, but **efficient inference, data pipelines, and end-to-end system behavior**. I am particularly interested in problems that sit at the boundary of **ML and systems**, such as scalable training, model serving, and resource-aware inference.
+
+### Research Interests
+
+* Distributed Systems & ML Systems
+* Natural Language Processing
+* Computer Vision
+* Robotics & Embodied AI
+
+### Long-Term Vision
+
+My long-term goal is to build **intelligent systems with visual and conversational perception**, capable of understanding their environment and interacting with humans in meaningful, reliable ways—bridging **machine learning, systems engineering, and real-world deployment**.
+
+📌 Open to opportunities in **Distributed Systems, Machine Learning, NLP, Deep Learning**, and **Python / KDB+/Q** roles.
 
 **Long-term goal:** to build machines with **visual and conversational perception**, enabling them to understand, reason about, and respond intelligently to their environments.
 
