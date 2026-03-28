@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjsj0&label=Profile%20views&color=0e75b6&style=flat" alt="sjsj0" /> </p>
 Hii, I'm Sagar Jha.
 
-I am a **Master’s student in Computer Science at the University of Illinois Urbana-Champaign (UIUC)**, focusing on **Distributed Systems, Machine Learning Systems, and Natural Language Processing**. My work centers on **building scalable, production-grade ML systems**, where algorithmic performance, system efficiency, and real-world constraints matter equally.
+I am a **Master’s student in Computer Science at the University of Illinois Urbana-Champaign (UIUC)**, focusing on **Distributed Systems and Machine Learning Systems**. My work centers on **building scalable, production-grade systems**, where algorithmic performance, system efficiency, and real-world constraints matter equally.
 
 I hold a **Bachelor’s degree in Computer Science and Engineering**, an **AMIE in Electronics & Communication Engineering** (with a focus on **Mechatronics, Robotics, and Automation**), and a **Gold Medal in Advanced Diploma in Mechatronics & Industrial Automation (CSIO-ISTC)**. This multidisciplinary training grounds my work across **systems, ML, and physical-world deployment**.
 
